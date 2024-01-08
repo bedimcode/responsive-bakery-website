@@ -1,0 +1,125 @@
+========== HEADER ==========
+.nav__logo
+Bakery
+
+.nav__link
+Home - News - About Us - Favorites - Location
+
+
+========== HOME ==========
+.home__title
+Select The Best <br> Quality Breads
+
+.button
+Select Breads
+
+.home__location span
+AV. The Sun #321 <br> Lima Peru
+
+.home__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.youtube.com/
+
+
+========== NEWS ==========
+.section__title
+New Breads
+
+.new__title .new__description
+Rye Bread
+Baked with healthy, gluten-free 
+sourdough for good nutrition.
+
+Whole Grain Bread
+Crispy and homemade prepared 
+from organic yeast-free flour.
+
+Multigrain Bread
+Tasty and made with different 
+natural grains from the countryside.
+
+.new__button
+See More Breads
+
+
+========== ABOUT ==========
+.section__title
+About Us
+
+.about__description
+We prepare all types of bread that are made at home, 
+maintaining the tradition of using only the best 
+ingredients made with local products whenever possible. 
+We have an extensive line of freshly prepared bakery
+and coffee products.
+
+.button
+Know More
+
+
+========== FAVORITES ==========
+.section__title
+Customer Favorites
+
+.favorite__title .favorite__subtitle .favorite__price
+Whole Grain
+Bread
+$6.00
+
+Rye
+Bread
+$8.00
+
+Wheat
+Bread
+$3.00
+
+Multigrain
+Bread
+$5.00
+
+Sourdough
+Bread
+$7.00
+
+French
+Bread
+$3.00
+
+
+========== VISIT ==========
+.section__title
+Visit Us
+
+.visit__description
+Discover the best bread, we look forward 
+to your visit.
+
+.button
+See Location
+
+
+========== FOOTER ==========
+.footer__logo
+Bakery
+
+.footer__description
+We make the best bread <br> in the city.
+
+footer__title .footer__info
+Address
+ AV. The Sun #321 <br> Lima Peru
+ 9AM - 11PM
+
+Contact Me
+ bakery@email.com
+ +00 987 654 321
+
+Follow Us
+ https://www.facebook.com/
+ https://www.instagram.com/
+ https://www.youtube.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
